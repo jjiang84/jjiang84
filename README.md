@@ -1,8 +1,8 @@
 Hi, I'm Jasmine!
 
-🔭 QA Engineer </br>
-🌱 Studied in Biochemistry </br>
-⚡ Currently learning about technology
+🔭 Quality Assurance Engineer </br>
+🌱 Studied in Biochemistry transitioning to tech</br>
+⚡ Currently learning about tech
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -13,6 +13,9 @@ Hi, I'm Jasmine!
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jjiang84&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
